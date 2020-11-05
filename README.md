@@ -1,31 +1,33 @@
 # My-First-14-Web-Projects
 
----RD Recicla: rdrecicla.com
+*RD Recicla: rdrecicla.com*
 I was hired to create RD Recicla to help people recycle in the dominican republic. There is a language toggle and custom google map. The google map api is no longer connected to a credit card so there is an overlay on the map.
 
----Root Cellar Makerspace placeholder website: https://lucid-kare-8f5870.netlify.app
+*Root Cellar Makerspace placeholder website: https://lucid-kare-8f5870.netlify.app*
 I created this placeholder for a makerspace founding group I was part of when I was in high school. Cool three.js animation.
 
----BuildaBot Ghana: https://nifty-stallman-945b6b.netlify.app
+*BuildaBot Ghana: https://nifty-stallman-945b6b.netlify.app*
 A quick website I made for a project I ran in Ghana with my old nonprofit.
 
----STEM-Dominica: https://sharp-hamilton-e9f332.netlify.app
+*STEM-Dominica: https://sharp-hamilton-e9f332.netlify.app*
 A quick website I made for a couple projects in the Dominican Republic with my old nonprofit. 
 
-2018
+--------------------
+**2018**
+--------------------
 
----Chrome store productivity app: pesto-aioli
+*Chrome store productivity app: pesto-aioli*
 This was my first project in reactjs. A productivity chrome app that can record things to do and have hot links appear on each new page. I still use this today.
 
----The CC: https://zen-bartik-72f3de.netlify.app
+*The CC: https://zen-bartik-72f3de.netlify.app*
 I created this website for my friend who was starting a SAT/ACT help newsletter. It is connected to an Spring Boot API served by AWS that I created.
 
----Omnified’s website: https://relaxed-lewin-868bff.netlify.app
+*Omnified’s website: https://relaxed-lewin-868bff.netlify.app*
 My LLC’s old website. 
 
----ORION’s website: https://vigorous-almeida-6f9b9c.netlify.app
+*ORION’s website: https://vigorous-almeida-6f9b9c.netlify.app*
 My nonprofit’s old website. 
 
----Frederick Makerspace website: https://optimistic-shaw-ad03fc.netlify.app
+*Frederick Makerspace website: https://optimistic-shaw-ad03fc.netlify.app*
 I created this placeholder for a makerspace founding group I was part of when I was in high school. Cool three.js animation.
 
