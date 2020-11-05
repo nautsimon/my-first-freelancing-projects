@@ -1,5 +1,7 @@
 # My-First-14-Web-Projects
 
+**2019**
+--------------------
 *RD Recicla: rdrecicla.com*
 I was hired to create RD Recicla to help people recycle in the dominican republic. There is a language toggle and custom google map. The google map api is no longer connected to a credit card so there is an overlay on the map.
 
@@ -12,10 +14,9 @@ A quick website I made for a project I ran in Ghana with my old nonprofit.
 *STEM-Dominica: https://sharp-hamilton-e9f332.netlify.app*
 A quick website I made for a couple projects in the Dominican Republic with my old nonprofit. 
 
---------------------
+
 **2018**
 --------------------
-
 *Chrome store productivity app: pesto-aioli*
 This was my first project in reactjs. A productivity chrome app that can record things to do and have hot links appear on each new page. I still use this today.
 
