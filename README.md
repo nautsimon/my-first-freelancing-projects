@@ -3,16 +3,16 @@
 **2019**
 --------------------
 [[RD Recicla](https://rdrecicla.com)]
-I was hired to create RD Recicla to help people recycle in the dominican republic. There is a language toggle and custom google map. The google map api is no longer connected to a credit card so there is an overlay on the map.
+<br />I was hired to create RD Recicla to help people recycle in the dominican republic. There is a language toggle and custom google map. The google map api is no longer connected to a credit card so there is an overlay on the map.
 
 [[Root Cellar Makerspace placeholder website](https://lucid-kare-8f5870.netlify.app)]
-I created this placeholder for a makerspace founding group I was part of when I was in high school. Cool three.js animation.
+<br />I created this placeholder for a makerspace founding group I was part of when I was in high school. Cool three.js animation.
 
 [[BuildaBot Ghana](https://nifty-stallman-945b6b.netlify.app)]
-A quick website I made for a project I ran in Ghana with my old nonprofit.
+<br />A quick website I made for a project I ran in Ghana with my old nonprofit.
 
 [[STEM-Dominica](https://sharp-hamilton-e9f332.netlify.app)]
-A quick website I made for a couple projects in the Dominican Republic with my old nonprofit. 
+<br />A quick website I made for a couple projects in the Dominican Republic with my old nonprofit. 
 
 
 **2018**
