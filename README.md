@@ -29,11 +29,11 @@ My LLC’s old website.
 *ORION’s website: https://vigorous-almeida-6f9b9c.netlify.app*
 My nonprofit’s old website. 
 
-*Frederick Makerspace website: https://optimistic-shaw-ad03fc.netlify.app*
+*[Frederick Makerspace website] (https://optimistic-shaw-ad03fc.netlify.app)*:
 I created this placeholder for a makerspace founding group I was part of when I was in high school. Cool three.js animation.
 
 
 
 **2017**
 --------------------
-*STEMDR First Iteration: http://simonmahns.github.io* \nMy very first website. Made with vanilla HTML and CSS. Also a reminder of my youth, as I created this by staying up all night without any caffine. The good old days.
+*STEMDR First Iteration: http://simonmahns.github.io* nMy very first website. Made with vanilla HTML and CSS. Also a reminder of my youth, as I created this by staying up all night without any caffine. The good old days.
