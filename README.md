@@ -18,22 +18,23 @@
 **2018**
 --------------------
 [[Chrome productivity app](https://chrome.google.com/webstore/detail/pesto-aioli/baalpccnhigkkjhdaacgbkfopdcpbemp)]
-This was my first project in reactjs. A productivity chrome app that can record things to do and have hot links appear on each new page. I still use this today.
+<br />This was my first project in reactjs. A productivity chrome app that can record things to do and have hot links appear on each new page. I still use this today.
 
 [[The CC](https://zen-bartik-72f3de.netlify.app)]
-I created this website for my friend who was starting a SAT/ACT help newsletter. It is connected to an Spring Boot API served by AWS that I created.
+<br />I created this website for my friend who was starting a SAT/ACT help newsletter. It is connected to an Spring Boot API served by AWS that I created.
 
 [[Omnified’s website](https://relaxed-lewin-868bff.netlify.app)]
-My LLC’s old website. 
+<br />My LLC’s old website. 
 
 [[ORION’s website](https://vigorous-almeida-6f9b9c.netlify.app)]
-My nonprofit’s old website. 
+<br />My nonprofit’s old website. 
 
 [[Frederick Makerspace website](https://optimistic-shaw-ad03fc.netlify.app)]
-I created this placeholder for a makerspace founding group I was part of when I was in high school. Cool three.js animation.
+<br />I created this placeholder for a makerspace founding group I was part of when I was in high school. Cool three.js animation.
 
 
 
 **2017**
 --------------------
-[[STEMDR First Iteration](http://simonmahns.github.io)] My very first website. Made with vanilla HTML and CSS. Also a reminder of my youth, as I created this by staying up all night without any caffine. The good old days.
+[[STEMDR First Iteration](http://simonmahns.github.io)] 
+<br />My very first website. Made with vanilla HTML and CSS. Also a reminder of my youth, as I created this by staying up all night without any caffine. The good old days.
