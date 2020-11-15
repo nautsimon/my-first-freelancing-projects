@@ -1,5 +1,5 @@
 # My-First-14-Web-Projects
-*I like learning new things, here a few toy projects and such that helped me learn how to make web applications*
+*I like learning new things, here are a few toy projects and such that helped me learn how to make web applications*
 
 **2019**
 --------------------
