@@ -1,5 +1,5 @@
 # My-First-14-Web-Projects
-*I like learning new things, here a few toy projects and such that helped me learn how to make web applications in high school*
+*I like learning new things, here a few toy projects and such that helped me learn how to make web applications*
 
 **2019**
 --------------------
@@ -22,7 +22,7 @@
 <br />This was my first project in reactjs. A productivity chrome app that can record things to do and have hot links appear on each new page. I still use this today.
 
 [[The CC](https://zen-bartik-72f3de.netlify.app)]
-<br />I created this website for my friend who was starting a SAT/ACT help newsletter. It is connected to an Spring Boot API served by AWS that I created. In this repo, this project has two iterations (thecc and theccfronent) the former is vanilla html and css, and the latter is a remake i did when I learned reactjs (which is the live version).
+<br />I created this website for my friend who was starting a SAT/ACT help newsletter. It is connected to an Spring Boot API served by AWS that I created. In this repo, this project has two iterations (thecc and theccfrontend/theccbackend) the former is vanilla html and css, and the latter is a remake I made when I learned reactjs (which is the live version).
 
 [[Omnified’s website](https://relaxed-lewin-868bff.netlify.app)]
 <br />My LLC’s old website. This project has two versions, one done with vanilla html/css and a second version I made in reactjs after I learned react (this is the live version).
