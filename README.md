@@ -37,5 +37,5 @@
 
 **2017**
 --------------------
-[[STEMDR First Iteration](http://simonmahns.github.io)] 
+[[STEM-Dominica First Iteration](http://simonmahns.github.io)] 
 <br />My very first website. Made with vanilla HTML and CSS. Also a reminder of my youth, as I created this in one single all nighter without any caffine. The good old days, now I cant live without my 8 hours.
