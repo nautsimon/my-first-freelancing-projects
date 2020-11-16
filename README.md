@@ -1,6 +1,6 @@
 # My-First-14-Web-Projects
 *Here are a few toy projects and such that helped me learn how to make web applications* 
-<br />*All of these projects have either been transfered to another developer/are no longer mantained.
+<br />*All of these projects have either been transfered/are no longer mantained.
 
 **2019**
 --------------------
