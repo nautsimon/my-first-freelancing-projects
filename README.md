@@ -4,7 +4,7 @@
 **2019**
 --------------------
 [[RD Recicla](https://rdrecicla.com)]
-<br />This was the first website I was paid to make. I was hired to create RD Recicla to help people recycle in the dominican republic. There is a language toggle and custom google map. The google map api is no longer connected to a credit card so there is an overlay on the map.
+<br />This was the first website I was paid to make. I was hired to create RD Recicla to help people recycle in the Dominican Republic. There is a language toggle and custom google map. The google map api is no longer connected to a credit card so there is an overlay on the map.
 <br />Tools/Languages: Javascript (ReactJs), Google Maps API, Netlify, Photoshop, and Cloudinary. 
 
 [[Root Cellar Makerspace placeholder website](https://lucid-kare-8f5870.netlify.app)]
@@ -55,6 +55,6 @@
 **2017**
 --------------------
 [[STEM-Dominica V1](http://simonmahns.github.io)] 
-<br />My very first website. Made with vanilla HTML and CSS. Also a reminder of my youth, as I created this in one all nighter without any caffine. The good old days, now I cant live without at least 7 hours.
+<br />My very first website. Made with vanilla HTML and CSS. Also a reminder of my youth, as I created this in one all nighter without any caffeine. The good old days, now I can't live without at least 7 hours. 
 <br />Tools/Languages: HTML/CSS
 
