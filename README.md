@@ -4,7 +4,7 @@
 **2019**
 --------------------
 [[Class of 2023 clock](https://unruffled-mcclintock-886ffb.netlify.app)]
-<br />My friend and I were interested in keeping time while at school. This was our answer (time calculations may be inaccurate because of covid).
+<br />My friend and I after our first quarter at school had gone by too fast. We wanted a way to keep track of our time, this was our solution (time calculations may be inaccurate because of covid).
 <br />Tools/Languages: Javascript (ReactJs, ThreeJs) and Photoshop.
 
 [[RD Recicla](https://rdrecicla.com)]
