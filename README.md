@@ -3,6 +3,10 @@
 
 **2019**
 --------------------
+[[Class of 2023 clock](https://unruffled-mcclintock-886ffb.netlify.app)]
+<br />My friend and I were interested in keeping time while at school. This was our answer (time calculations may be inaccurate because of covid).
+<br />Tools/Languages: Javascript (ReactJs, ThreeJs).
+
 [[RD Recicla](https://rdrecicla.com)]
 <br />This was the first website I was paid to make. I was hired to create RD Recicla to help people recycle in the Dominican Republic. There is a language toggle and custom google map. The google map api is no longer connected to a credit card so there is an overlay on the map.
 <br />Tools/Languages: Javascript (ReactJs), Google Maps API, Netlify, Photoshop, and Cloudinary. 
