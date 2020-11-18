@@ -69,7 +69,7 @@
 
 **ok cool, so what?**
 --------------------
-*here are links to some of my cooler projects that are products of my learning from My-First-14-Web-Projects.*
+*here are links to some of my cooler websites that are products of my learning from My-First-14-Web-Projects.*
 
 [[Adventure Blog](http://cookedcorn.casa)][[repo](https://github.com/simonmahns/mm)]
 <br />My blog. Tons of pictures and content (loaded programmatically). Cool ThreeJs animations.
