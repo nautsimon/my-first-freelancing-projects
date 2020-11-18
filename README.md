@@ -63,8 +63,8 @@
 <br />My very first website. Made with vanilla HTML and CSS. Also a reminder of my youth, as I created this in one all nighter without any caffeine. The good old days, now I can't live without at least 7 hours. 
 <br />Tools/Languages: HTML/CSS
 
-
 <br />
+
 --------------------
 **What I got out of it**
 --------------------
