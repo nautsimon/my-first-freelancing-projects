@@ -64,7 +64,9 @@
 <br />Tools/Languages: HTML/CSS
 
 --------------------
-<br />
+
+
+
 **What I got out of it**
 --------------------
 *here are links to some of my cooler projects that are products of my projects above.*
