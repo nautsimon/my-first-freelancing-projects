@@ -64,10 +64,10 @@
 <br />Tools/Languages: HTML/CSS
 
 --------------------
+--------------------
+--------------------
 
-
-
-**What I got out of it**
+**ok cool, so what?**
 --------------------
 *here are links to some of my cooler projects that are products of my projects above.*
 
