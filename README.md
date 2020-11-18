@@ -34,33 +34,33 @@
 [[The CC V1 and V2](https://zen-bartik-72f3de.netlify.app)]
 <br />I created this website for my friend who was starting a SAT/ACT help newsletter.
 <br />V2 (live): Remade in ReactJs, connected to an Spring Boot API hosted on AWS. Frontend code in "thecc", backend code in "theccbackend". 
-<br />Tools/Languages: Javascript (ReactJs), Java (Spring Boot), Serverless, AWS (EC2, IAMs, Lambda, MongoDB), and Netlify.
+<br />*Tools/Languages: Javascript (ReactJs), Java (Spring Boot), Serverless, AWS (EC2, IAMs, Lambda, MongoDB), and Netlify.*
 <br />V1: Made in vanilla HTML and CSS. Code found in "theccfrontend".
 <br />*Tools/Languages: HTML/CSS and Godaddy.*
 
 [[Omnified’s website V1 and V2](https://relaxed-lewin-868bff.netlify.app)]
 <br />My LLC’s old website. 
 <br />V2 (live): Remade in ReactJs. Code found under "omnified-in-react".
-<br />Tools/Languages: Javascript (ReactJs), Netlify, and Photoshop.
+<br />*Tools/Languages: Javascript (ReactJs), Netlify, and Photoshop.*
 <br />V1: Made in vanilla HTML and CSS.
 <br />*Tools/Languages: HTML/CSS and Photoshop.*
 
 [[ORION’s website V1 and V2](https://vigorous-almeida-6f9b9c.netlify.app)]
 <br />My nonprofit’s old website.
 <br />V2 (live): Remade in ReactJs. Code found under "orion-in-react".
-<br />Tools/Languages: Javascript (ReactJs, React Router), Netlify, and Photoshop.
+<br />*Tools/Languages: Javascript (ReactJs, React Router), Netlify, and Photoshop.*
 <br />V1: Made in vanilla HTML and CSS. Code found under "omnified.org".
 <br />*Tools/Languages: HTML/CSS and Photoshop.*
 
 [[Frederick Makerspace website](https://optimistic-shaw-ad03fc.netlify.app)]
-<br />I created this website for a makerspace founding group I was part of when I was in high school. My first project with three.js animation. I later cloned the backend I used for "TheCC" to collect emails for this website.
+<br />I created this website for a makerspace founding group I was part of when I was in high school. My first project with three.js animation. I later cloned the backend used for "TheCC" to collect emails for this website.
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), Java (Spring Boot), Serverless, AWS (EC2, IAMs, Lambda, MongoDB), Netlify, and Photoshop.*
 
 
 **2017**
 --------------------
 [[STEM-Dominica V1](http://simonmahns.github.io)] 
-<br />My very first website. Made with vanilla HTML and CSS. Also a reminder of my youth, as I created this in one all nighter without any caffeine. The good old days, now I can't live without at least 7 hours. 
+<br />My very first website. Made with vanilla HTML and CSS. Also a reminder of my youth, as I created this in a single all nighter without any caffeine. The good old days, now I can't live without at least 7 hours. 
 <br />*Tools/Languages: HTML/CSS*
 
 --------------------
