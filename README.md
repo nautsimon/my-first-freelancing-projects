@@ -63,3 +63,32 @@
 <br />My very first website. Made with vanilla HTML and CSS. Also a reminder of my youth, as I created this in one all nighter without any caffeine. The good old days, now I can't live without at least 7 hours. 
 <br />Tools/Languages: HTML/CSS
 
+
+**Bonus**
+--------------------
+*here are links to some of my cooler projects that are products of my "learning experinces" above.*
+[[Adventure Blog](http://cookedcorn.casa)]
+<br />My blog. Tons of pictures and content (loaded programmatically). Cool ThreeJs animations.
+<br />Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), Cloudiniary, Netlify, Photoshop, and Premiere. 
+
+[[Spott](http://spott.live)] 
+<br />A cool website I made for an UChicago mobile application startup.
+<br />Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), SEO practices (XML maps, FCP, etc.), Cloudiniary, Netlify, Photoshop, and Premiere. 
+
+[[Tweet Generator](https://confident-pare-b6e027.netlify.app)] 
+<br />A website that “trains” itself to a user's tweets (using the twitter API) and then uses Markov chains to predict a tweet they would make.
+<br />Tools/Languages: Javascript (ReactJs, ThreeJs), Python (Tweepy), AWS (Lambda, API Gateway, Lambda Layers), Netlify, and Photoshop. 
+<br />Tools/Languages (for earlier version): Python (Django), Heroku.
+
+[[Personal Dev Profile](http://cookedcorn.casa)] 
+<br />A website I created in 2019 to display my projects (before I used LinkedIn).
+<br />Tools/Languages: Javascript (ReactJs, ThreeJs), Netlify, and Photoshop. 
+
+[[Pool Placeholder Website](https://pensive-jones-7f7e4c.netlify.app)] 
+<br />A place holder I made for a UChicago mobile application startup I interned at.
+<br />Tools/Languages: Javascript (ReactJs, ThreeJs), Cloudiniary, Netlify, and Photoshop. 
+
+[[Edge Placeholder](https://compassionate-albattani-b0447b.netlify.app)] 
+<br />A place holder I made for the premier UChicago entrepreneurship club.
+<br />Tools/Languages: Javascript (ReactJs, ThreeJs), Cloudiniary, Netlify, and Photoshop. 
+
