@@ -27,7 +27,7 @@
 
 **2018**
 --------------------
-[[Chrome productivity app](https://chrome.google.com/webstore/detail/pesto-aioli/baalpccnhigkkjhdaacgbkfopdcpbemp)]
+[[A productivity Chrome app](https://chrome.google.com/webstore/detail/pesto-aioli/baalpccnhigkkjhdaacgbkfopdcpbemp)]
 <br />This was my first project in reactjs. A productivity chrome app that can record things to do and have hot links appear on each new page. I still use this today.
 <br />*Tools/Languages: Javascript (ReactJs), Chrome Developer Tools, Netlify and Photoshop.*
 
