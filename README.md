@@ -71,7 +71,7 @@
 --------------------
 *here are links to some of my cooler projects that are products of my learning from My-First-14-Web-Projects.*
 
-[[Adventure Blog](http://cookedcorn.casa)] [[repo](https://github.com/simonmahns/mm)]
+[[Adventure Blog](http://cookedcorn.casa)][[repo](https://github.com/simonmahns/mm)]
 <br />My blog. Tons of pictures and content (loaded programmatically). Cool ThreeJs animations.
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), Cloudiniary, Netlify, Photoshop, and Premiere.*
 
@@ -84,15 +84,15 @@
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Python (Tweepy), AWS (Lambda, API Gateway, Lambda Layers), Netlify, and Photoshop.*
 <br />*Tools/Languages (for earlier version): Python (Django), Heroku.*
 
-[[Personal Dev Profile](http://cookedcorn.casa)][[repo](https://github.com/simonmahns/mm)] 
+[[Personal Dev Profile](http://cookedcorn.casa)][[repo](https://github.com/pinknaut/prof)] 
 <br />A website I created in 2019 to display my projects (before I used LinkedIn).
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Netlify, and Photoshop.*
 
-[[Pool Placeholder Website] [private repo]
+[[Pool Placeholder Website](https://pensive-jones-7f7e4c.netlify.app)][private repo]
 <br />A place holder I made for a UChicago mobile application startup I interned at.
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Cloudiniary, Netlify, and Photoshop.*
 
-[[Edge Placeholder](https://compassionate-albattani-b0447b.netlify.app)] [private repo]
+[[Edge Placeholder](https://compassionate-albattani-b0447b.netlify.app)][private repo]
 <br />A place holder I made for the premier UChicago entrepreneurship club.
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Cloudiniary, Netlify, and Photoshop.* 
 
