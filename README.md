@@ -5,7 +5,7 @@
 **2019**
 --------------------
 [[Class of 2023 clock](https://unruffled-mcclintock-886ffb.netlify.app)]
-<br />My friend and I after our first quarter at school had gone by too fast. We wanted a way to keep track of our time, this was our solution (time calculations may be inaccurate because of covid).
+<br />After our first quarter at school, my friend and I felt as if time had gone by too fast. We wanted a way to keep track of our time - this was our solution (time calculations may be inaccurate because of covid).
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs) and Photoshop.*
 
 [[RD Recicla](https://rdrecicla.com)]
@@ -28,7 +28,7 @@
 **2018**
 --------------------
 [[A productivity Chrome app](https://chrome.google.com/webstore/detail/pesto-aioli/baalpccnhigkkjhdaacgbkfopdcpbemp)]
-<br />This was my first project in reactjs. A productivity chrome app that can record things to do and have hot links appear on each new page. I still use this today.
+<br />This was my first project in ReactJs. A productivity Chrome app that has an interactive to-do list, the current date, and customizable hot links that appear every time that the user opens a new tab. The idea was that in order to prevent myself from getting distracted, everytime that I would open a new tab I would be forced to look at my to-do list. I still use this today.
 <br />*Tools/Languages: Javascript (ReactJs), Chrome Developer Tools, Netlify and Photoshop.*
 
 [[The CC V1 and V2](https://zen-bartik-72f3de.netlify.app)]
