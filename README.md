@@ -42,14 +42,14 @@
 <br />My LLC’s old website. 
 <br />V2 (live): Remade in ReactJs. Code found under "omnified-in-react".
 <br />Tools/Languages: Javascript (ReactJs), Netlify, and Photoshop.
-<br />V1: Made in vanilla HTML and CSS. Code found under "omnified".
+<br />V1: Made in vanilla HTML and CSS.
 <br />Tools/Languages: HTML/CSS and Photoshop.
 
 [[ORION’s website V1 and V2](https://vigorous-almeida-6f9b9c.netlify.app)]
 <br />My nonprofit’s old website.
 <br />V2 (live): Remade in ReactJs. Code found under "orion-in-react".
 <br />Tools/Languages: Javascript (ReactJs, React Router), Netlify, and Photoshop.
-<br />V1: Made in vanilla HTML and CSS. Code found under "omnified".
+<br />V1: Made in vanilla HTML and CSS. Code found under "omnified.org".
 <br />Tools/Languages: HTML/CSS and Photoshop.
 
 [[Frederick Makerspace website](https://optimistic-shaw-ad03fc.netlify.app)]
@@ -64,9 +64,10 @@
 <br />Tools/Languages: HTML/CSS
 
 
-**Bonus**
+**What I got out of it**
 --------------------
-*here are links to some of my cooler projects that are products of my "learning experinces" above.*
+*here are links to some of my cooler projects that are products of my projects above.*
+
 [[Adventure Blog](http://cookedcorn.casa)]
 <br />My blog. Tons of pictures and content (loaded programmatically). Cool ThreeJs animations.
 <br />Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), Cloudiniary, Netlify, Photoshop, and Premiere. 
