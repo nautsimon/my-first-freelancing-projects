@@ -6,15 +6,15 @@
 --------------------
 [[Class of 2023 clock](https://unruffled-mcclintock-886ffb.netlify.app)]
 <br />My friend and I after our first quarter at school had gone by too fast. We wanted a way to keep track of our time, this was our solution (time calculations may be inaccurate because of covid).
-<br />Tools/Languages: Javascript (ReactJs, ThreeJs) and Photoshop.
+<br />*Tools/Languages: Javascript (ReactJs, ThreeJs) and Photoshop.*
 
 [[RD Recicla](https://rdrecicla.com)]
 <br />This was the first website I was paid to make. I was hired to create RD Recicla to help people recycle in the Dominican Republic. There is a language toggle and custom google map. The google map api is no longer connected to a credit card so there is an overlay on the map.
-<br />Tools/Languages: Javascript (ReactJs), Google Maps API, Netlify, Photoshop, and Cloudinary. 
+<br />*Tools/Languages: Javascript (ReactJs), Google Maps API, Netlify, Photoshop, and Cloudinary.*
 
 [[Root Cellar Makerspace placeholder website](https://lucid-kare-8f5870.netlify.app)]
 <br />I created this placeholder for a makerspace founding group I was part of when I was in high school. Cool three.js animation.
-<br />Tools/Languages: Javascript (ReactJs, ThreeJs), Netlify, and Photoshop.
+<br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Netlify, and Photoshop.*
 
 [[BuildaBot Ghana](https://nifty-stallman-945b6b.netlify.app)]
 <br />A quick website I made for a project I ran in Ghana with my old nonprofit.
