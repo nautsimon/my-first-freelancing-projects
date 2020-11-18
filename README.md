@@ -81,8 +81,7 @@
 
 [[Tweet Generator](https://confident-pare-b6e027.netlify.app)][[repo](https://github.com/simonmahns/tweetgenerator)]
 <br />A website that “trains” itself to a user's tweets (accessed with the twitter API) and then uses Markov chains to predict a tweet they would make.
-<br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Python (Tweepy), AWS (Lambda, API Gateway, Lambda Layers), Netlify, and Photoshop.*
-<br />*Tools/Languages (for earlier version): Python (Django), Heroku.*
+<br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Python (Tweepy, Django), AWS (Lambda, API Gateway, Lambda Layers), Netlify, Heroku, and Photoshop.*
 
 [[Personal Dev Profile](http://simonmahns.tech)][[repo](https://github.com/pinknaut/prof)] 
 <br />A website I created in 2019 to display my projects (before I used LinkedIn).
