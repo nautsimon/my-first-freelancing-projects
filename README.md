@@ -84,7 +84,7 @@
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Python (Tweepy), AWS (Lambda, API Gateway, Lambda Layers), Netlify, and Photoshop.*
 <br />*Tools/Languages (for earlier version): Python (Django), Heroku.*
 
-[[Personal Dev Profile](http://cookedcorn.casa)][[repo](https://github.com/pinknaut/prof)] 
+[[Personal Dev Profile](http://simonmahns.tech)][[repo](https://github.com/pinknaut/prof)] 
 <br />A website I created in 2019 to display my projects (before I used LinkedIn).
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Netlify, and Photoshop.*
 
