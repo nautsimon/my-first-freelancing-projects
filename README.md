@@ -76,7 +76,7 @@
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), Cloudiniary, Netlify, Photoshop, and Premiere.*
 
 [[Spott](http://spott.live)][private repo]
-<br />A cool website I made for an UChicago mobile application startup.
+<br />A cool website I made for an UChicago mobile application startup I interned at.
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), SEO practices (XML maps, FCP, etc.), Cloudiniary, Netlify, Photoshop, and Premiere.* 
 
 [[Tweet Generator](https://confident-pare-b6e027.netlify.app)][[repo](https://github.com/simonmahns/tweetgenerator)]
@@ -88,7 +88,7 @@
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Netlify, and Photoshop.*
 
 [[Pool Placeholder Website](https://pensive-jones-7f7e4c.netlify.app)][private repo]
-<br />A place holder I made for a UChicago mobile application startup I interned at.
+<br />A place holder I made for a UChicago mobile application startup.
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Cloudiniary, Netlify, and Photoshop.*
 
 [[Edge Placeholder](https://compassionate-albattani-b0447b.netlify.app)][private repo]
