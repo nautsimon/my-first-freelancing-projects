@@ -95,3 +95,7 @@
 <br />A place holder I made for the premier UChicago entrepreneurship club.
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Cloudiniary, Netlify, and Photoshop.* 
 
+[[Atrium Placeholder](https://atriumbeta.netlify.app)][private repo]
+<br />A place holder I made for a UChicago startup.
+<br />*Tools/Languages: Javascript (ReactJs), Cloudiniary, Netlify, Illustrator and Photoshop.* 
+
