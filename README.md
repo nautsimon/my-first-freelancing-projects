@@ -76,7 +76,7 @@
 <br />My blog. Tons of pictures and content (loaded programmatically). Cool ThreeJs animations.
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), Cloudiniary, Netlify, Photoshop, and Premiere.*
 
-[[Spott](http://spott.live)][private repo]
+[[Spott](https://modest-kalam-580262.netlify.app)][private repo]
 <br />A cool website I made for an UChicago mobile application startup I interned at.
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), SEO practices (XML maps, FCP, etc.), Cloudiniary, Netlify, Photoshop, and Premiere.* 
 
