@@ -1,6 +1,6 @@
 # My first freelancing projects
 *Here are a few toy projects and such that helped me learn how to make web applications* 
-<br /><br />*All of these projects have either been transferred to another dev or are no longer maintained. For my most recent projects, scroll to the bottom of this README.
+<br /><br />*All of these projects have either been transferred to another dev or are no longer maintained.
 
 --------------------
 
