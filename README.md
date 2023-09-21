@@ -2,6 +2,41 @@
 *Here are a few toy projects and such that helped me learn how to make web applications* 
 <br /><br />*All of these projects have either been transferred to another dev or are no longer maintained. For my most recent projects, scroll to the bottom of this README.
 
+--------------------
+
+[[Paragon SPG]](https://www.paragonspg.com)
+<br /> A website I made for large contracting/consulting firm.
+<br />*Tools/Languages: Javascript, SEO practices (XML maps, FCP, etc.), System Admin, Netlify, and Photoshop.* 
+
+[[Adventure Blog](http://cookedcorn.casa)][[repo](https://github.com/simonmahns/mm)]
+<br />My blog. Tons of pictures and content (loaded programmatically). Cool ThreeJs animations.
+<br />*Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), Cloudiniary, Netlify, Photoshop, and Premiere.*
+
+[[Spott](https://modest-kalam-580262.netlify.app)][private repo]
+<br />A cool website I made for an UChicago mobile application startup I interned at.
+<br />*Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), SEO practices (XML maps, FCP, etc.), Cloudiniary, Netlify, Photoshop, and Premiere.* 
+
+[[Tweet Generator](https://confident-pare-b6e027.netlify.app)][[repo](https://github.com/simonmahns/tweetgenerator)]
+<br />A website that “trains” itself to a user's tweets (accessed with the twitter API) and then uses Markov chains to predict a tweet they would make.
+<br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Python (Tweepy, Django), AWS (Lambda, API Gateway, Lambda Layers), Netlify, Heroku, and Photoshop.*
+
+[[Personal Dev Profile](http://simonmahns.tech)][[repo](https://github.com/pinknaut/prof)] 
+<br />A website I created in 2019 to display my projects (before I used LinkedIn).
+<br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Netlify, and Photoshop.*
+
+[[Pool Placeholder Website](https://pensive-jones-7f7e4c.netlify.app)][private repo]
+<br />A place holder I made for a UChicago mobile application startup.
+<br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Cloudiniary, Netlify, and Photoshop.*
+
+[[Edge Placeholder](https://compassionate-albattani-b0447b.netlify.app)][private repo]
+<br />A place holder I made for the premier UChicago entrepreneurship club.
+<br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Cloudiniary, Netlify, and Photoshop.* 
+
+[[Atrium Placeholder](https://atriumbeta.netlify.app)][private repo]
+<br />A place holder I made for a UChicago startup.
+<br />*Tools/Languages: Javascript (ReactJs), Cloudiniary, Netlify, Illustrator and Photoshop.* 
+
+*here are links to some of my projects that are products of my learning from the work below.*
 
 **2019**
 --------------------
@@ -68,35 +103,5 @@
 --------------------
 --------------------
 
-**ok cool, so what?**
---------------------
-*here are links to some of my cooler websites that are products of my learning from "My-First-14-Web-Projects".*
 
-[[Adventure Blog](http://cookedcorn.casa)][[repo](https://github.com/simonmahns/mm)]
-<br />My blog. Tons of pictures and content (loaded programmatically). Cool ThreeJs animations.
-<br />*Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), Cloudiniary, Netlify, Photoshop, and Premiere.*
-
-[[Spott](https://modest-kalam-580262.netlify.app)][private repo]
-<br />A cool website I made for an UChicago mobile application startup I interned at.
-<br />*Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), SEO practices (XML maps, FCP, etc.), Cloudiniary, Netlify, Photoshop, and Premiere.* 
-
-[[Tweet Generator](https://confident-pare-b6e027.netlify.app)][[repo](https://github.com/simonmahns/tweetgenerator)]
-<br />A website that “trains” itself to a user's tweets (accessed with the twitter API) and then uses Markov chains to predict a tweet they would make.
-<br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Python (Tweepy, Django), AWS (Lambda, API Gateway, Lambda Layers), Netlify, Heroku, and Photoshop.*
-
-[[Personal Dev Profile](http://simonmahns.tech)][[repo](https://github.com/pinknaut/prof)] 
-<br />A website I created in 2019 to display my projects (before I used LinkedIn).
-<br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Netlify, and Photoshop.*
-
-[[Pool Placeholder Website](https://pensive-jones-7f7e4c.netlify.app)][private repo]
-<br />A place holder I made for a UChicago mobile application startup.
-<br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Cloudiniary, Netlify, and Photoshop.*
-
-[[Edge Placeholder](https://compassionate-albattani-b0447b.netlify.app)][private repo]
-<br />A place holder I made for the premier UChicago entrepreneurship club.
-<br />*Tools/Languages: Javascript (ReactJs, ThreeJs), Cloudiniary, Netlify, and Photoshop.* 
-
-[[Atrium Placeholder](https://atriumbeta.netlify.app)][private repo]
-<br />A place holder I made for a UChicago startup.
-<br />*Tools/Languages: Javascript (ReactJs), Cloudiniary, Netlify, Illustrator and Photoshop.* 
 
