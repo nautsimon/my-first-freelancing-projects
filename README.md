@@ -4,7 +4,7 @@
 
 --------------------
 
-[[Paragon SPG]](https://www.paragonspg.com)
+[[Paragon SPG](https://www.paragonspg.com)]
 <br /> A website I made for large contracting/consulting firm.
 <br />*Tools/Languages: Javascript, SEO practices (XML maps, FCP, etc.), System Admin, Netlify, and Photoshop.* 
 
