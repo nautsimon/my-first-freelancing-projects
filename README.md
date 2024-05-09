@@ -12,7 +12,7 @@
 <br />My blog. Tons of pictures and content (loaded programmatically). Cool ThreeJs animations.
 <br />*Tools/Languages: Javascript (ReactJs, ThreeJs, React Router), Cloudiniary, Netlify, Photoshop, and Premiere.*
 
-[[RD Recicla]](https://condescending-khorana-5beed9.netlify.app)
+[RD Recicla]](https://condescending-khorana-5beed9.netlify.app)]
 <br />A website I was paid to create in 2019 that provides geographical data on places items can be recyvled at in the Dominican Republic.
 <br />*Tools/Languages: Javascript (ReactJs), Google Maps API, Netlify, Photoshop, and Premiere.*
 
